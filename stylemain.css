@@ -1,0 +1,146 @@
+.dressPage{
+   width:100%;
+   display:inline-block;
+}
+
+
+.imgName{
+    height:200px;
+    width:100;
+}
+
+.shopItem {
+    display: inline-block;
+    margin-left:10px;
+    border:1px solid rgb(255, 153, 0);
+    padding:10px;
+ }
+
+.cartSection{
+    display:inline-block;
+    
+    width:95%;
+   /* position: absolute;*/
+    margin-left:10px;
+}
+#cartBox{   
+    border:1px solid rgb(25, 0, 255);
+    display:inline-block;   
+    width:30%;
+    position: absolute;
+    
+}
+.carttotal{   
+    border: 1px solid black;
+    display: inline-block;
+    position: absolute;
+    left: 295px;
+    margin-top: 5px;
+}
+
+
+.imgBorder{
+     border:1px solid black;
+ }
+.dressName{
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;     
+ }
+
+.foodName{
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;     
+ }
+
+
+.image{
+       width: 100px;
+       height: 100px;
+       padding: 20px 30px;
+}
+
+ 
+ button{
+     background-color: rgb(61, 113, 255);
+     padding: 14px 24px;
+     align-items: center;
+     font-size: 10px;
+     font-weight: bold; 
+     border-radius: 5px; 
+     border:none;
+ }
+
+
+ .cartImage{
+     width:50px;
+ }
+
+#cartItemHeadingText{
+    width:30%;
+    margin-left:20%;
+    font-weight: bold;     
+    margin-bottom:50px;
+    text-underline-position: below;
+}
+.cartDressName{
+    margin-left:10px;
+    font-weight: bold;     
+}
+.removebutton{
+    float: right;
+    /*margin-right: 10px;*/
+}
+
+.cartPriceTxt{
+    margin-left:30px;  
+}
+.cartPrice{
+    margin-left:10px;    
+}
+ .priceVal{
+     margin-left:8px;
+     float:right;
+ }
+
+
+.image:hover {
+    transform: scale(1.2)
+}
+
+#table_1 {
+    border-spacing: 300px 0px;
+}
+
+#table_2 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#silc {
+    width: 300;
+    height: 85;
+}
+
+#welcome {
+    text-align: center;
+}
+
+#directions {
+    text-align: center;
+}
+
+#title {
+    color: black;
+    text-align: center;
+}
+
+a:visited,
+a:link,
+a:active {
+    text-decoration: none;
+}
+
+h2 { text-align: center }
+
+
+
